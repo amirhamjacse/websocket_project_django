@@ -54,11 +54,11 @@ To get the project running locally:
 
 ### Chat Room Interface
 
-![Chat Room Interface](images/chat-room-interface.png)
+![Chat Room Interface](screensoots/1.png)
 
 ### Image Zoom Modal
 
-![Image Zoom Modal](images/image-zoom-modal.png)
+![Image Zoom Modal](screensoots/2.png)
 
 ## Future Improvements
 
