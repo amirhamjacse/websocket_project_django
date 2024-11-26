@@ -11,3 +11,4 @@ class ChatConsumer(AsyncWebsocketConsumer):
 
     async def receive(self, text_data):
         await self.send(text_data=f"Echo: {text_data}")
+        print("added print")
